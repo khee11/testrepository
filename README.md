@@ -1,14 +1,16 @@
 # testrepository
 연습용 리퍼지토리 입니다.
 
-![github](https://user-images.githubusercontent.com/87646049/135098737-39a5dc8e-2bc2-4cdb-bfe4-63169c1f718c.png)
-
 
 ## subtitle
 
   -  첫 번째 : first
   -  두 번째 : second
   -  세 번째: third
+
+![github](https://user-images.githubusercontent.com/87646049/135098737-39a5dc8e-2bc2-4cdb-bfe4-63169c1f718c.png)
+
+
 
 ## 예제 연습
   > https://www.markdowntutorial.com/kr/lesson/1/
