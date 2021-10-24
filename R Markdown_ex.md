@@ -15,7 +15,14 @@
 
     R markdown에서는 header가 필요함
 
-
+## Sites
+  > https://rfriend.tistory.com/308
+  > 
+  > https://rfriend.tistory.com/311
+  > 
+  > https://tariat.tistory.com/663
+  > 
+  > https://www.theissaclee.com/ko/courses/rdocs101/week6/#r%EC%BD%94%EB%93%9C-%EA%B7%B8%EB%A6%BC-%EB%84%A3%EA%B8%B0
 
 # Example
 
@@ -96,7 +103,7 @@ plot(iris[,1], iris[,2], col = iris[,5])
 ## Latex math equations
 
 Here is a math equation
-$$ \sum_{i=1}^n X_i $$
+`$$ \sum_{i=1}^n X_i $$`
   
   ## Include graphs
   
